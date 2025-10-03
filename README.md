@@ -117,5 +117,8 @@ PhD Student, Department of Computer Science, Bayero University Kano (BUK), Kano,
 **Ernest Obbie Zulu**
 Department of Medical Imaging, Northern Command Military Hospital & Maina Soko Medical Centre, Zambia.
 
+**Oluwapelumi Samuel Solagbade**
+College of Health Science, Obafemi Awolowo University, Nigeria  
+
 **Leila Osman Hussein**
 Radiographer, Kenyatta University Teaching, Referral and Research Hospital, Kenya.
