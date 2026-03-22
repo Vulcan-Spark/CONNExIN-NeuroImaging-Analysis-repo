@@ -1,6 +1,6 @@
 # Longitudinal Analysis of Cortical and Subcortical Volumes Pipeline in the Prevent-AD Dataset (Structural Team)
 
-<img src="repo Banner.png" alt="Project Banner" width="100%">
+<img src="repo Banner.png" alt="Project Banner" width="710"/>
 
 ### Quick links for easy navigation.
 
